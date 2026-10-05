@@ -82,8 +82,17 @@ Currently a work in progress, this design intends to provide rapid, high velocit
 Isolated firing mechanism CAD:
 <img width="1050" height="205" alt="image" src="https://github.com/user-attachments/assets/595a4024-6e8b-4b77-8575-b6ef3ca2bdb2" />
 
-Current Prototype:
+Early Prototype:
 <img width="772" height="578" alt="image" src="https://github.com/user-attachments/assets/e9077c70-d53e-47da-bfc6-7974b7ba5a55" />
+
+Current Prototype:
+<img width="4096" height="3072" alt="rn_image_picker_lib_temp_374a093b-22f1-46e1-9994-0ef87e4ac771" src="https://github.com/user-attachments/assets/1f060626-eb00-4962-9067-f4aef4e563e0" />
+
+https://github.com/user-attachments/assets/41ead7d8-482d-45ce-9b1b-27042d3b4471
+
+
+
+
 
 
 
