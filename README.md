@@ -75,7 +75,7 @@ Unused Amp PCB Design:
 <img width="578" height="544" alt="image" src="https://github.com/user-attachments/assets/b79404aa-ca0e-49d4-a4b3-7831967bbcdc" />
 
 ## Automatic Nerf Blaster:
-Currently a work in progress, this design intends to provide rapid, high velocity firing without the delay associated with flywheel based designs. The current prototype fires automatically however suffers from reliability issues.
+Currently a work in progress, this design intends to provide rapid, high velocity firing without the delay associated with flywheel based designs. The current prototype fires automatically at around 200ft/s (60m/s).
 
 <img width="1050" height="520" alt="image" src="https://github.com/user-attachments/assets/c169432b-c2ae-4fd9-8658-76fc041df6a4" />
 
