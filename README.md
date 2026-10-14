@@ -26,7 +26,7 @@ This is currently based off of a panel stiffness estimation using Timoshenko bea
 
 
 ### Full torsion Simulation of QUT Motorsports 2024 chassis in Ansys ACP: 
-
+ANSYS ACP simulation of a Carbon Composite chassis - 10.4% underprediction of stiffness compared with physical testing
 <img width="736" height="596" alt="image" src="https://github.com/user-attachments/assets/d6554aeb-9165-46fd-9b27-3b614a769c6b" />
 
 
